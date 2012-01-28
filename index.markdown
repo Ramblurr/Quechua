@@ -32,6 +32,8 @@ Looking for something in particular?  Use the Google search box to search this w
 
 Latest updates:
 
+* *2012/01/27* - Site goes live
+
 [vocab]: vocab.html
 [grammar]: grammar.html
 [about]: about.html
