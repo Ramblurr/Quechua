@@ -3,9 +3,9 @@ layout: index
 title: Quechua Language Notes
 ---
 
-Here you can find information for studying Quechua. These pages are taken from my Quechua notebooks. I'm in the process of learning Quechua myself, so as I learn more features of Quechua, I will add them here.
+Here you can find information about the Quechua language. These pages are edited compilations from my Quechua notebooks. I'm still in the process of learning Quechua myself, so this site will be updated as I continue to learn.
 
-Important Disclaimer: Unlike other online Quechua resources, that were presumably compiled by a native speaker, this website is edited by a non-native from in-class notes, and hence *should not be considered a reliable source regarding the Quechua language*; however, since what is here is what I consider to be the case, I hope it is correct. The same goes for any Spanish you find on this website.
+Important Disclaimer: Unlike other online Quechua resources, that were presumably compiled by a native speaker, this website is edited by a non-native from notes, and hence *should not be considered a reliable source regarding the Quechua language*; however, since what is here is what I, myself, know about Quechua, I hope it is correct. The same goes for any Spanish you find on this website.
 
 * The [vocabulary lists][vocab] useful lists of vocab words. When possible I include a sample sentence. Translations in English and Spanish.
 * The [grammar notes][grammar] provide information on various topics such as pronouns, verb conjugations and tenses, and more, with examples to show usage.
