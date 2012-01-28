@@ -1,0 +1,24 @@
+safe:        false
+auto:        false
+server:      false
+server_port: 4000
+
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+
+future:      true
+lsi:         false
+pygments:    true
+markdown:    rdiscount
+rdiscount:
+  extensions: [smart]
+permalink:   date
+pagination: true
+paginate: 5
+
+base_url:  http://binaryelysium.com/quechua
+
+# extensions
+# Delimeter to be used to seperate whole post from its preview
+content_delimeter: "<!--END-->"
