@@ -8,7 +8,7 @@ title: About - Quechua Language Notes
 ### On Dialects
 
 The pronunciation, grammar, vocabulary, and spelling varies between different
-Quechua dialects. I learned the Cuzco dialect, and hence that is what is used
+Quechua dialects. I studied the Cuzco dialect, and hence that is what is used
 throughout this website.
 
 ### Remarks About Spelling
