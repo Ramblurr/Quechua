@@ -17,7 +17,7 @@ out how to categorize it.
 
 Personal pronouns in Quechua are quite straight forward. Keep the following in mind:
 
-There are two two first person plural pronouns ("we"). The first is inclusive, which is used when the speaker wishes to include the person(s) being addressed in the statement. The second is exclusive, which is used when the speaker does not wish to include the addressees.
+There are two first person plural pronouns ("we"). The first is inclusive, which is used when the speaker wishes to include the person(s) being addressed in the statement. The second is exclusive, which is used when the speaker does not wish to include the addressees.
 
 Quechua also adds the plural suffix *-kuna* to the second and third person singular pronouns to create the plural forms.
 
