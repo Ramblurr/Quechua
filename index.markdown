@@ -12,6 +12,7 @@ Important Disclaimer: Unlike other online Quechua resources, that were presumabl
 * The [about page][about] contains remarks about the alphabet used on this site.
 * The [links][links] go to free websites with useful resources for Quechua language learning.
 
+<!---
 Looking for something in particular?  Use the Google search box to search this website.  Tip: if you're searching for a vocabulary word and can't find the word you're looking for, use the infinitive; ex. "to cooperate" instead of "cooperation."
 
 <center>
@@ -29,9 +30,11 @@ Looking for something in particular?  Use the Google search box to search this w
 </div>
 </form>
 </center>
+--->
 
 Latest updates:
 
+* *2012/01/28* - Add conjugations and suffixes pages
 * *2012/01/27* - Site goes live
 
 [vocab]: vocab.html
