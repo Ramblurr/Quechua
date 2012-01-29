@@ -24,10 +24,18 @@ Yes, she is healthy</p>
 </div>
 
 ### **-MI/-N**: Evidential, Personal Knowledge
-Used to assert or confirm what was said by the speaker; indicates the speaker has personal knowledge of the claim. Can be added to any element of the sentence. Is not translatable.
+Used to assert or confirm what was said by the speaker; indicates the speaker has personal experience with the claim. Can be added to any element of the sentence. Is not translatable.
 
 **-mi**: is used for words that end in a consonant (allillan**mi**, good)  
 **-n**: is used for words that end in a vowel (wasi**n**, house)
+
+<div class="example">
+<p>parashan <br />
+It is raining. (source of information unknown)</p>
+<p>parashan<strong>mi</strong> <br />
+It is raining. (speaker knows it is raining through direct experience)
+<p>parashan
+</div>
 
 ### **-CHU**: Interrogative
 Used in sentences that do not have a question word (e.g., Imay, what).
