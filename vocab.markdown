@@ -5,8 +5,11 @@ title: Quechua Language Notes
 
 # Quechua vocabulary lists
 
-Coming soon. In the mean time check out the [grammar][gr] section.
+| | |
+|:--|:-- |
+| [Dialogues][dia] | 
 
 
 [gr]: grammar.html
+[dia]: dialogues.html
 
