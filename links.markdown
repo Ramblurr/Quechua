@@ -22,6 +22,18 @@ a decent amount of content).
 * [Quechua Language Homepage][ull] - **[5-vowel][Bolivia]** - Intro lessons in
   Bolivian Quechua with vocabulary
 
+### Quechua Videos
+
+* [Dina's Quechua es Nuestra Lingua][dina] - **[5-vowel][Cuzco]** - This user's
+  profile has introductory videos on the alphabet, numbers, colors, and a few
+  dialogues. Good quality!
+* Cosmovision Video Lessons [Part 1][wisdom1], [Part 2][wisdom2],
+  [PDF][wisdompdf] - **[5-vowel]** - Great quality recordings of the,
+  unfortunately, in the 5 vowel alphabet. Still a fantastic source for
+  pronuciation.
+* [Inka Quechua Technical][tech] - **[5-vowel]** - Quite a few videos from basic
+  to intermediate topics as well as idioms. Poor production quality.
+
 ### Quechua language information
 
 * [Fun facts to know and tell about Quechua][funfacts] - interesting facts
@@ -32,8 +44,9 @@ a decent amount of content).
 
 ### Online dictionaries
 
-* [Cosmovision Runasimi][cosmo] - Español-Quechua
-* [Katari][katari] - Español-Quechua y Aymara
+* [Cosmovision Runasimi][cosmo] - Español-Quechua - interactive
+* [Katari][katari] - Español-Quechua y Aymara - interactive
+* [Diccionario AML][simitaqe] - Español-Quechua - 2nd edition 2005 - book
 
 ### Other resources
 
@@ -50,3 +63,9 @@ a decent amount of content).
 [yachay]: http://www.yachay.com.pe/especiales/quechua/index.htm
 [love]: http://web.archive.org/web/20090804232046/http://geocities.com/TheTropics/4458/rllove.html
 [ull]: http://www.ullanta.com/quechua/
+[dina]: http://www.youtube.com/user/dinavera64
+[wisdom1]: http://www.youtube.com/watch?v=6AjTi4q_kIo&feature=related
+[wisdom2]: http://www.youtube.com/watch?v=eQRvcBq3XMc&feature=related
+[wisdompdf]: http://www.cosmovisionandina.org/runasimi/fonemas/fonemas_runasimi_tupaqamaro_video_web.pdf
+[tech]: http://www.youtube.com/user/InkaQuechuaTechnical
+[simitaqe]: http://www.scribd.com/doc/10940134/DicAMLQuechua
