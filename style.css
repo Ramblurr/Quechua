@@ -3,7 +3,7 @@ a:link      { color: #136FB5; text-decoration: none; }
 a:visited   { color: #660066; text-decoration: none; }
 a:hover     { color: #004276; text-decoration: none; }
 
-p   { line-height: 1.7em; margin: 0 0 15px; padding-bottom: 8px; }
+p   { line-height: 1.7em; margin: 0 0 15px; }
 
 ul  { line-height: 1.7em; margin: 0 20px 15px; }
 
@@ -40,7 +40,7 @@ hr
 
 table
    { font: 1em 'Lucida Grande', Verdana, Helvetica, sans-serif; color: #666666; 
-    line-height:180%; }
+    line-height:180%; margin-bottom: 10px; }
 
 table.vocab
    { font: 1em 'Lucida Grande', Verdana, Helvetica, sans-serif; color: #666666; 
@@ -138,6 +138,7 @@ div.example
     border-width:1px;
     padding:10px;
     margin-left:50px;
+    margin-bottom: 10px;
     background-color:#f0f4f5; }
 
 div.steps
