@@ -29,3 +29,19 @@ Used to assert or confirm what was said by the speaker; indicates the speaker ha
 **-mi**: is used for words that end in a consonant (allillan**mi**, good)  
 **-n**: is used for words that end in a vowel (wasi**n**, house)
 
+### **-CHU**: Interrogative
+Used in sentences that do not have a question word (e.g., Imay, what).
+Indicates that the speaker is asking a question. The word to which it is
+attached is what the speaker is asking about or is interested in.
+
+<div class="example">
+<p>Allillan<strong>chu</strong> kashankichis? <br />
+Are you all doing well?</p>
+<p>Qhalillan<strong>chu</strong> Maria kashan <br />
+Is Maria healthy?</p>
+<p>Runasimita<strong>chu</strong> rimanki <br />
+You speak Quechua? (emphasis on the Quechua)</p>
+<p> Runasimita rimanki<strong>chu</strong> <br />
+You speak Quechua? (emphasis on the speaking)</p>
+</div>
+
