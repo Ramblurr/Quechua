@@ -34,6 +34,7 @@ Looking for something in particular?  Use the Google search box to search this w
 
 Latest updates:
 
+* *2012/01/29* - Add some basic verbs, dialogues, and example sentences
 * *2012/01/28* - Add conjugations and suffixes pages
 * *2012/01/27* - Site goes live
 
