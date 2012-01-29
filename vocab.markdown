@@ -9,8 +9,10 @@ title: Quechua Language Notes
 |:--|:-- |
 | [Basic Verbs][verb] | 
 | [Dialogues][dia] | 
+| [Example Sentences][sent] | 
 
 
 [gr]: grammar.html
 [dia]: dialogues.html
 [verb]: verbs.html
+[sent]: sentences.html
