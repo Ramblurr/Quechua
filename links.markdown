@@ -12,6 +12,8 @@ a decent amount of content).
 
 ### General learning resources
 
+* [Quechua Simplified Language Course] - **[3-vowel][Cuzcp]** - An 8 lesson
+  course covering basic Quechua grammar. 
 * [Andes.org][andes] - **[5-vowel] [Peru]** - Grammar lessons, vocab lists, proverbs, poetry, and idioms.
 *  [Kechwa at University of Kansas][ku] - **[Ecuador]** - Stories with audio
    recordings and transcripts, mp3 recordings of words, a few songs and large
@@ -47,6 +49,8 @@ a decent amount of content).
 * [Cosmovision Runasimi][cosmo] - Español-Quechua - interactive
 * [Katari][katari] - Español-Quechua y Aymara - interactive
 * [Diccionario AML][simitaqe] - Español-Quechua - 2nd edition 2005 - book
+* [Runasimpi][simpi] - Many dictionaries for download (PDF, MSWORD,
+  OpenOffice), also includes StarDict.
 
 ### Other resources
 
@@ -69,3 +73,5 @@ a decent amount of content).
 [wisdompdf]: http://www.cosmovisionandina.org/runasimi/fonemas/fonemas_runasimi_tupaqamaro_video_web.pdf
 [tech]: http://www.youtube.com/user/InkaQuechuaTechnical
 [simitaqe]: http://www.scribd.com/doc/10940134/DicAMLQuechua
+[vanenos]: http://www.vanenos.com/quechua-language-introduction
+[simpi]:http://72.249.45.140/cd/ 
