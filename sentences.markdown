@@ -6,6 +6,25 @@ title: Example Sentences - Quechua Language Notes
 # Example Quechua Sentences  
 
 Sentences in Quechua for your studying pleasure.
+
+Chufirchu kanki?  
+You are a driver?  
+
+Manachu chufir kanki?  
+You aren't a driver?  
+
+Paykuna uywanku wallpakunata chakrankupi  
+Ellos crian gallinas en su chacra  
+They raise/breed chickens on his farm  
+
+Paykuna sapa punchaw hatarinku ancha timpranu.  
+Ellos se levantan muy temprano todos los dias.  
+They get up very early every day.  
+
+Llamkanku tukuy punchaw.  
+Trabajan todo el dia.  
+They work the whole day.  
+
   
 ## Unreviewed  
 
