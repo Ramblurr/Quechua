@@ -8,9 +8,17 @@ title: Suffixes - Quechua Language Notes
 There are many suffixes in Quechua that can be stacked on a root word to change
 or add meaning.
 
-### **-LLA**: Limitative
-Used in polite situations to express courtesy, friendship, and affection.
+*Note:*: The names for the suffixes are translations from Spanish names, and
+I am not 100% confident in the original Spanish names, let alone my
+translations. I'm not a linguist, so beware. Thankfully, the names of the
+suffixes aren't necessary to learning how to use them.
 
+If you spot an innacuracies in the descriptions of these suffixes, please shoot
+me an email (see very bottom).
+
+### **-LLA**: Limitative
+Used in polite situations to express courtesy, friendship, and affection. Not
+to be confused with the other *-lla* (See below).
 
 <div class="example">
 <p>Imayna<strong>lla</strong> kashanki <br />
@@ -53,3 +61,127 @@ You speak Quechua? (emphasis on the Quechua)</p>
 You speak Quechua? (emphasis on the speaking)</p>
 </div>
 
+### -RÍ: Inchoative
+Added to the end of words and functions as an interrogative or prompts the
+conversation to continue. It is translated like "and." When used rí is
+emphasized, instead of the second to last syllable.
+
+<div class="example">
+<p>Allillanmi kashayku. Qan<strong>rí</strong>? <br />
+We are good. And you?</p>
+</div>
+
+Need more non-name/pronoun examples.
+
+### -PAS/-PIS: Inclusive
+Used in sentences of affirmation and corresponds to the translation "also" or "likewise".
+
+<div class="example">
+<p>Maria<strong>pas</strong> allillanmi kashan. <br />
+Maria also is doing well.</p>
+<p>Wiraqucha<strong>pis</strong> runasimita riman <br />
+Likewise the señor speaks Quechua.</p>
+</div>
+
+### -KAMA: Terminative
+Indicates a limit in space or time and also conveys the goal of an action.
+Corresponds to the translation "until".
+<div class="example">
+<p>Paqarin<strong>kama</strong> mamay Gabina. <br />
+Until tomorrow Señora Gabina.</p>
+<p>Minchha<strong>kama</strong>chu rishanki. <br />
+Are you going until tomorrow?</p>
+<p>Arí, minchha<strong>kama</strong> rishani. <br />
+Yes, I'm going until tomorrow.</p>
+</div>
+
+### -Y: Vocative
+Expresses tenderness, respect, or a positive emotional bond between the speaker
+and the person or thing being addressed. Can be accompanied by the suffixes
+*-chay* and *-lla*.
+
+<div class="example">
+<p>Imaynalla mama<strong>y</strong> kakushanki <br />
+How are you doing (my/dear) mother? </p>
+<p>Tupananchiskama ñaña<strong>y</strong>. <br />
+Until later (dear) sister </p>
+<p>Qusqulla<strong>y</strong>, sumuqlla kashanki <br />
+My Cuzco, you are beautiful </p>
+</div>
+
+### -YÁ
+Expresses conformity, approval or assent. No direct translation.
+
+<div class="example">
+<p>Tupananchiskama ñañay <br />
+<em>Until later sister </em> <br />
+Tupananchiskama<strong>yá</strong> panay<br />
+<em>Indeed, until later brother</em></p>
+</div>
+
+### -ÑA
+Expresses the notion of "already".
+
+<div class="example">
+<p> Runasimita rimashani<strong>ña</strong>. <br />
+<em>I am already speaking Quechua</em> </p>
+<p>Qhali<strong>ña</strong>chu kashanki <br/>
+<em>You're already healthy?</em></p>
+</div>
+
+### -PI: Locative (also ablative)
+One of the several ablative case markers. 
+Indicates a specific location in geographical space or place. Corresponds
+vaguely to the prepositions "in" and "at".
+
+<div class="example">
+<p>May<strong>pi</strong>n tiyashanki <br />
+<em>(In) where do you live? </em> </p>
+<p>Paykunan Qusqu<strong>pi</strong> runasimita yachashanku <br />
+<em>They are learning Quechua in Cuzco</em> </p>
+</div>
+
+### -MANTA: Ablative
+One of the several ablative case markers. Primary usage indicates the place of
+origin.
+
+<div class="example">
+<p>Nuqa Qusqu<strong>manta</strong>n kani <br />
+<em>I am from Cuzco</em> </p>
+<p>Nuqayku karu llaqta<strong>manta</strong>n hamushayku <br />
+<em>We (restrictive) are coming from a far village </em></p>
+</div>
+
+### -QA: Topic Marker
+Marks a previously established topic in discourse. *-qa* may be suffixed on
+nouns, pronouns, adjectives, nominalized clauses, etc.
+However, *-qa* does not occur on negative lexemes (mana and ama), the
+conjunctions, y 'and' and o 'or' borrowed from Spanish, or within subordinate
+clauses.  One *-qa* may occur per sentence. ([source][stan])
+
+Generally occurs in affirmative sentences.
+
+<div class="example">
+<p>Wawaykikuna runasimita rimashallankuchu <br />
+<em>You're children are only speaking Quechua?</em> <br />
+Ari, wawaykuna<strong>qa</strong> runasimita rimashallanku <br />
+<em>Yes, my children[-topic] are only speaking Quechua</em> </p>
+<p>Nuqapis munani iñiyta<strong>qa</strong> <br />
+<em>I also want to believe[-topic]</em></p>
+</div>
+
+### -KUNA: Plural marker
+Marks nouns, pronouns in the 2nd and 3rd person, and demonstrative pronouns as
+plural. If the meaning is clear, then *-kuna* is optional. For example, if the
+sentence contains a number, then *-kuna* can be omitted.
+
+<div class="example">
+<p>wasi &rarr; wasi<strong>kuna</strong> <br />
+<em>house &rarr; houses </em></p>
+<p>Qan &rarr; Qan<strong>kuna</strong> <br />
+<em>You &rarr; You (all) </em> </p>
+<p>Iskayllan ususiy kani<br />
+<em>I have only two daughters</em></p>
+</div>
+
+[stan]: http://www.stanford.edu/dept/linguistics/languages/quechua/Default.htm
