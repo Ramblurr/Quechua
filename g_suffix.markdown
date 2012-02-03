@@ -143,7 +143,8 @@ vaguely to the prepositions "in" and "at".
 
 ### -MANTA: Ablative
 One of the several ablative case markers. Primary usage indicates the place of
-origin.
+origin. Is a distinct suffix and is not composed of the individual suffixes
+*-man* and *-ta*.
 
 <div class="example">
 <p>Nuqa Qusqu<strong>manta</strong>n kani <br />
