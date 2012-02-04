@@ -228,4 +228,24 @@ sentence contains a number, then *-kuna* can be omitted.
 <em>I have only two daughters</em></p>
 </div>
 
+<a id="qpa"></a>
+### -Q/PA: Genitive
+Appears on nouns and indicates possession or ownership.
+
+When a word ends in a vowel use *-q* or occasionally *-qpa*. When a word ends
+in a consonant use *-pa*.
+
+When the possessor and thing possessed appear in a sentence, the possessor takes
+the genitive *-q/pa* and the thing possessed takes the possessive suffix.
+
+<div class="example">
+<p>Qusay<strong>pa</strong> pana<u>n</u> <br />
+<em>The sister of my husband</em></p>
+<p>Irqi<strong>q</strong> pukllana<u>n</u> <br />
+<em>The boy's toy</em></p>
+<p>Qan<strong>pa</strong> llaqta<u>yki</u> hatunchu<br />
+<em>Is your village big?</em></p>
+</div>
+
+
 [stan]: http://www.stanford.edu/dept/linguistics/languages/quechua/Default.htm
