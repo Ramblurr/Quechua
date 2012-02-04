@@ -8,7 +8,7 @@ title: Suffixes - Quechua Language Notes
 There are many suffixes in Quechua that can be stacked on a root word to change
 or add meaning.
 
-*Note:*: The names for the suffixes are translations from Spanish names, and
+*Note:* The names for the suffixes are translations from Spanish names, and
 I am not 100% confident in the original Spanish names, let alone my
 translations. I'm not a linguist, so beware. Thankfully, the names of the
 suffixes aren't necessary to learning how to use them.
@@ -16,7 +16,24 @@ suffixes aren't necessary to learning how to use them.
 If you spot an innacuracies in the descriptions of these suffixes, please shoot
 me an email (see very bottom).
 
-### **-LLA**: Limitative
+Contents of suffixes on this page:
+
+* [-lla](#lla) - the limitative
+* [-mi/n](#min) - personal knowledge evidential clitic
+* [-chu](#chu) - the interrogative
+* [-ri](#ri) -  the inchoative
+* [-pas](#pas) - the inclusive
+* [-kama](#kama) - the terminative
+* [-y](#y) - the vocative
+* [-yá](#ya) - expresses conformity or assent
+* [-ña](#na) - expresses "already"
+* [-pi](#pi) - (ablative) the locative
+* [-manta](#manta) - (ablative) place of origin indicator
+* [-qa](#qa) - the topic marker
+* [-kuna](#kuna) - the plural marker
+
+<a id="lla"></a>
+### **-LLA**: Limitative 
 Used in polite situations to express courtesy, friendship, and affection. Not
 to be confused with the other *-lla* (See below).
 
@@ -31,6 +48,7 @@ Is Maria healthy?<p>
 Yes, she is healthy</p>
 </div>
 
+<a id="min"></a>
 ### **-MI/-N**: Evidential, Personal Knowledge
 Used to assert or confirm what was said by the speaker; indicates the speaker has personal experience with the claim. Can be added to any element of the sentence. Is not translatable.
 
@@ -45,6 +63,7 @@ It is raining. (speaker knows it is raining through direct experience)
 <p>parashan
 </div>
 
+<a id="chu"></a>
 ### **-CHU**: Interrogative
 Used in sentences that do not have a question word (e.g., Imay, what).
 Indicates that the speaker is asking a question. The word to which it is
@@ -61,6 +80,7 @@ You speak Quechua? (emphasis on the Quechua)</p>
 You speak Quechua? (emphasis on the speaking)</p>
 </div>
 
+<a id="ri"></a>
 ### -RÍ: Inchoative
 Added to the end of words and functions as an interrogative or prompts the
 conversation to continue. It is translated like "and." When used rí is
@@ -73,6 +93,7 @@ We are good. And you?</p>
 
 Need more non-name/pronoun examples.
 
+<a id="pas"></a>
 ### -PAS/-PIS: Inclusive
 Used in sentences of affirmation and corresponds to the translation "also" or "likewise".
 
@@ -83,6 +104,7 @@ Maria also is doing well.</p>
 Likewise the señor speaks Quechua.</p>
 </div>
 
+<a id="kama"></a>
 ### -KAMA: Terminative
 Indicates a limit in space or time and also conveys the goal of an action.
 Corresponds to the translation "until".
@@ -95,6 +117,7 @@ Are you going until tomorrow?</p>
 Yes, I'm going until tomorrow.</p>
 </div>
 
+<a id="y"></a>
 ### -Y: Vocative
 Expresses tenderness, respect, or a positive emotional bond between the speaker
 and the person or thing being addressed. Can be accompanied by the suffixes
@@ -109,6 +132,7 @@ Until later (dear) sister </p>
 My Cuzco, you are beautiful </p>
 </div>
 
+<a id="ya"></a>
 ### -YÁ
 Expresses conformity, approval or assent. No direct translation.
 
@@ -119,6 +143,7 @@ Tupananchiskama<strong>yá</strong> panay<br />
 <em>Indeed, until later brother</em></p>
 </div>
 
+<a id="na"></a>
 ### -ÑA
 Expresses the notion of "already".
 
@@ -129,6 +154,7 @@ Expresses the notion of "already".
 <em>You're already healthy?</em></p>
 </div>
 
+<a id="pi"></a>
 ### -PI: Locative (also ablative)
 One of the several ablative case markers. 
 Indicates a specific location in geographical space or place. Corresponds
@@ -141,6 +167,7 @@ vaguely to the prepositions "in" and "at".
 <em>They are learning Quechua in Cuzco</em> </p>
 </div>
 
+<a id="manta"></a>
 ### -MANTA: Ablative
 One of the several ablative case markers. Primary usage indicates the place of
 origin. Is a distinct suffix and is not composed of the individual suffixes
@@ -153,6 +180,7 @@ origin. Is a distinct suffix and is not composed of the individual suffixes
 <em>We (restrictive) are coming from a far village </em></p>
 </div>
 
+<a id="qa"></a>
 ### -QA: Topic Marker
 Marks a previously established topic in discourse. *-qa* may be suffixed on
 nouns, pronouns, adjectives, nominalized clauses, etc.
@@ -171,6 +199,7 @@ Ari, wawaykuna<strong>qa</strong> runasimita rimashallanku <br />
 <em>I also want to believe[-topic]</em></p>
 </div>
 
+<a id="kuna"></a>
 ### -KUNA: Plural marker
 Marks nouns, pronouns in the 2nd and 3rd person, and demonstrative pronouns as
 plural. If the meaning is clear, then *-kuna* is optional. For example, if the
