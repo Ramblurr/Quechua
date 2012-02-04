@@ -12,7 +12,11 @@ a decent amount of content).
 
 ### General learning resources
 
-* [Quechua Simplified Language Course] - **[3-vowel][Cuzcp]** - An 8 lesson
+* [NYU Online Language Unit][nyulessons] - **[Cuzco][3-vowel]** - Five lessons from NYU's CLACS. Covers basic grammar and vocabulary. Includes PDFs. High quality!
+* [Rimasun: Quechua Language Podcasts][rimasun] - **[Cuzco]** - Produced by
+  NYC's CLACS. A free audio series featuring conversations and interviews
+  entirely in the Quechua and Kichwa languages.
+* [Quechua Simplified Language Course][vanenos] - **[3-vowel][Cuzco]** - An 8 lesson
   course covering basic Quechua grammar. 
 * [Andes.org][andes] - **[5-vowel] [Peru]** - Grammar lessons, vocab lists, proverbs, poetry, and idioms.
 *  [Kechwa at University of Kansas][ku] - **[Ecuador]** - Stories with audio
@@ -23,6 +27,8 @@ a decent amount of content).
   archivos de audio (en formato WAV y RA).
 * [Quechua Language Homepage][ull] - **[5-vowel][Bolivia]** - Intro lessons in
   Bolivian Quechua with vocabulary
+* [Runasimi Kuchu][cyberqu] - Digital textbooks, linguistic information, and
+  other documents.
 
 ### Quechua Videos
 
@@ -75,3 +81,7 @@ a decent amount of content).
 [simitaqe]: http://www.scribd.com/doc/10940134/DicAMLQuechua
 [vanenos]: http://www.vanenos.com/quechua-language-introduction
 [simpi]:http://72.249.45.140/cd/ 
+[nyulessons]: http://clacs.as.nyu.edu/object/clacs.quechua.units.market
+[rimasun]: http://clacs.as.nyu.edu/object/clacs.quechua.rimasun
+[cyberqu]: http://runasimi-kuchu.com/index.html
+
