@@ -8,6 +8,13 @@ title: Verb Conjugations- Quechua Language Notes
 Verbs in Quechua are completely regular; if you learn the conjugations for one
 verb, you've learned them for all.
 
+Conjugations list:
+
+* [Person Markers (Present Tense)](#present)
+* [Present Progressive](#prog)
+* [Perfect Past](#ppast)
+
+<a id="present"></a>
 ### Person Markers and the Present Tense
 
 The most basic form of verb conjugation is known as "person markers"
@@ -107,7 +114,7 @@ Conjugated examples:
 </table>
 
 
-
+<a id="prog"></a>
 ### The present progressive
 
 The present progressive, also known as the continuous present, is used for
@@ -191,6 +198,7 @@ Example sentences:
 </div>
 
 
+<a id="ppast"></a>
 ### Perfect Past
 
 The formula for the perfect past is:
