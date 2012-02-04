@@ -181,21 +181,84 @@ Example sentences:
 
 <div class="example">
 <p>Imaynallan ka<strong>sha</strong>nki <br />
-How are you?</p>
+<em>How are you?</em></p>
 <p>Allillanmi ka<strong>sha</strong>ni <br />
-I am doing good</p>
+<em>I am doing good</em></p>
 <p>Qhalillachu Maria ka<strong>sh</strong>an <br/>
-Is Maria healthy?<p>
+<em>Is Maria healthy</em>?<p>
 <p>Ari, qhalillanmi ka<strong>sh</strong>an <br />
-Yes, she is healthy</p>
+<em>Yes, she is healthy</em></p>
 </div>
 
 
-### Past tense
+### Perfect Past
 
-In progress.
+The formula for the perfect past is:
+
+<div class="example">
+verb root + <strong>-rqa/-ra</strong> + person marker
+</div>
+
+Conjugated examples:
+
+<table class="conj">
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<th colspan="3">Riy (to go), root: ri</th>
+<tr class="odd bottombordersolid">
+<td>&nbsp;</td>
+<td><strong>English</strong></td>
+<td><strong>Quechua</strong></td>
+</tr>
+
+<tr class="bottombordersolid">
+<td rowspan="3" class="odd"><strong>Singular</strong></td>
+<td>I went</td>
+<td>Ri<strong>rqa</strong>ni / ri<strong>ra</strong>ni</td>
+</tr>
+
+<tr class="bottombordersolid">
+<td>You went</td>
+<td>Ri<strong>rqa</strong>nki / ri<strong>ra</strong>nki</td>
+</tr>
 
 
+<tr class="bottomborderthick">
+<td>He/She went</td>
+<td>Ri<strong>rqa</strong>n / ri<strong>ra</strong>n</td>
+</tr>
+
+<tr class="bottombordersolid">
+<td rowspan="4" class="odd"><strong>Plural</strong></td>
+<td>We (inclusive) went</td>
+<td>Ri<strong>rqa</strong>nchis / ri<strong>ra</strong>nchis</td>
+</tr>
 
 
+<tr class="bottombordersolid">
+<td>We (exclusive) went</td>
+<td>Ri<strong>rqa</strong>yku/ ri<strong>ra</strong>yku</td>
+</tr>
+
+
+<tr class="bottombordersolid">
+<td>You (all) went</td>
+<td>Ri<strong>rqa</strong>nkichis / ri<strong>ra</strong>nkichis</td>
+</tr>
+
+<tr class="bottombordersolid">
+<td>They went</td>
+<td>Ri<strong>rqa</strong>nku / ri<strong>ra</strong>nku</td>
+</tr>
+</table>
+
+Example Sentences:
+<div class="example">
+<p>Qan qayna domingota misaman ri<strong>rqa</strong>nkichu <br />
+<em>Did you go to mass last Sunday?</em> </p>
+<p>Nuqaq wasiypi, paykunaq fiestanku ka<strong>rqa</strong>n <br />
+<em>Their party was in my house.</em></p>
+</div>
 
