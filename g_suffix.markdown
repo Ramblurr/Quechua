@@ -31,6 +31,7 @@ Contents of suffixes on this page:
 * [-manta](#manta) - (ablative) place of origin indicator
 * [-qa](#qa) - the topic marker
 * [-kuna](#kuna) - the plural marker
+* [-q/pa](#qpa) - the genitive
 
 <a id="lla"></a>
 ### **-LLA**: Limitative 
