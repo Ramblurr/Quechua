@@ -18,21 +18,22 @@ me an email (see very bottom).
 
 Contents of suffixes on this page:
 
-* [-lla](#lla) - the limitative
+* [-lla](#lla) - the limitative ("only", "exclusively")
 * [-mi/n](#min) - personal knowledge evidential clitic
-* [-chu](#chu) - the interrogative
-* [-ri](#ri) -  the inchoative
-* [-pas](#pas) - the inclusive
-* [-kama](#kama) - the terminative
+* [-chu](#chu) - the interrogative (question marker)
+* [-ri](#ri) -  the inchoative ("and")
+* [-pas](#pas) - the inclusive ("also", "likewise")
+* [-kama](#kama) - the terminative ("until")
 * [-y](#y) - the vocative
 * [-yá](#ya) - expresses conformity or assent
 * [-ña](#na) - expresses "already"
-* [-pi](#pi) - (ablative) the locative
-* [-manta](#manta) - (ablative) place of origin indicator
+* [-pi](#pi) - (ablative) the locative ("in", "at")
+* [-manta](#manta) - (ablative) place of origin indicator ("from")
 * [-qa](#qa) - the topic marker
 * [-kuna](#kuna) - the plural marker
-* [-q/pa](#qpa) - the genitive
-* [-wan](#wan) - instrumental, company, conjunction
+* [-q/pa](#qpa) - the genitive ("of")
+* [-wan](#wan) - instrumental, company, conjunction ("with", "and")
+* [-man](#man) - directional translocative ("to", "toward", "at")
 
 <a id="lla"></a>
 ### **-LLA**: Limitative 
@@ -271,6 +272,18 @@ yachashayku <br />
 <em>Pedro, Pablo, and I are studying Quechua</em></p>
 <p>Churiy<strong>wan<u>wan</u></strong> riranchis <br />
 <em>We went with my son (we and my son)</em></p>
+</div>
+
+<a id="man"></a>
+### -MAN: Directional translocative
+
+Appears on nouns but comes with a movement verb. Indicates the directional sense of the verb's action towards a particular goal. Translated as "to" or "toward" or "at".
+
+<div class="example">
+<p> Ima<strong>man</strong>mi urquta p'itashanki <br />
+<em>Toward what hill are you hurrying?</em></p>
+<p>Llaqta<strong>man</strong> chayarani. <br />
+<em>I arrived at the village</em></p>
 </div>
 
 
