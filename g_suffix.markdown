@@ -34,8 +34,22 @@ Contents of suffixes on this page:
 
 <a id="lla"></a>
 ### **-LLA**: Limitative 
-Used in polite situations to express courtesy, friendship, and affection. Not
-to be confused with the other *-lla* (See below).
+This suffix has two usaages:
+
+1. Expresses a limitation in what is being said. Can appear on any element in
+   the sentence (subject, object, verb). Corresponds to the connotations: only,
+   exclusively, uniquely.
+
+<div class="example">
+<p>Kinsa<strong>lla</strong>n wawaykunaqa <br />
+<em>They have only three children</em></p>
+<p>T'anta<strong>lla</strong>ta sapa p'unchay mikhuyku <br />
+<em>We eat only bread every day</em></p>
+<p>Pisi<strong>lla</strong>n Punomanta hamushanku <br />
+<em>Only a few are coming from Puno. </em></p>
+</div>
+
+2. Used in polite situations to express courtesy, friendship, and affection.
 
 <div class="example">
 <p>Imayna<strong>lla</strong> kashanki <br />
