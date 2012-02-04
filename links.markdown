@@ -29,6 +29,9 @@ a decent amount of content).
   Bolivian Quechua with vocabulary
 * [Runasimi Kuchu][cyberqu] - Digital textbooks, linguistic information, and
   other documents.
+* [¡Aprendamos Quechua!][apr] - **[3-vowel][Español]** - Blog with many lessons
+  and exercises (in Spanish). Good content, however the blog format makes it
+  impossible to browse.
 
 ### Quechua Videos
 
@@ -84,4 +87,4 @@ a decent amount of content).
 [nyulessons]: http://clacs.as.nyu.edu/object/clacs.quechua.units.market
 [rimasun]: http://clacs.as.nyu.edu/object/clacs.quechua.rimasun
 [cyberqu]: http://runasimi-kuchu.com/index.html
-
+[apr]: http://aprendamosquechua.wordpress.com
