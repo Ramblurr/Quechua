@@ -3,7 +3,7 @@ layout: index
 title: Suffixes - Quechua Language Notes
 ---
 
-# Suffixes in Quechua
+# Classification of Suffixes in Quechua
 
 There are many suffixes in Quechua that can be stacked on a root word to change
 or add meaning.
@@ -32,6 +32,7 @@ Contents of suffixes on this page:
 * [-qa](#qa) - the topic marker
 * [-kuna](#kuna) - the plural marker
 * [-q/pa](#qpa) - the genitive
+* [-wan](#wan) - instrumental, company, conjunction
 
 <a id="lla"></a>
 ### **-LLA**: Limitative 
@@ -246,6 +247,30 @@ the genitive *-q/pa* and the thing possessed takes the possessive suffix.
 <em>The boy's toy</em></p>
 <p>Qan<strong>pa</strong> llaqta<u>yki</u> hatunchu<br />
 <em>Is your village big?</em></p>
+</div>
+
+<a id="wan"></a>
+### -WAN: Instrumental
+
+Appears on nouns, pronouns, and adjectives. Signals accompaniment or the means
+or instrument, animate or inanimate, that someone uses to do something. In this
+case *-wan* is translated as "with".
+
+Also can be used as a conjunction to indicate something additional, join words or phrases, or join sentences, in which case it is translated as "and".
+
+*Note*: It is possible for both meanings to be used ("with" and conjunction),
+see the final example.
+
+<div class="example">
+<p>Qusaypa panan<strong>wan</strong>mi qhipakuni <br />
+<em>I stay with the sister of my husband</em></p>
+<p>Puka<strong>wan</strong> yurqaqmi bandiranchis <br />
+<em>Our flag is red and white</em></p>
+<p>Pidru<strong>wan</strong>, Pablu<strong>wan</strong>, nuqami runasimita
+yachashayku <br />
+<em>Pedro, Pablo, and I are studying Quechua</em></p>
+<p>Churiy<strong>wan<u>wan</u></strong> riranchis <br />
+<em>We went with my son (we and my son)</em></p>
 </div>
 
 
