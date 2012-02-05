@@ -7,9 +7,12 @@ title: About - Quechua Language Notes
 
 ### On Dialects
 
-The pronunciation, grammar, vocabulary, and spelling varies between different
-Quechua dialects. I studied the Cuzco dialect, and hence that is what is used
-throughout this website.
+Quechua, or Runa Simi,  is a family of closely related languages spoken by
+millions of people in South America. These languages have a long tradition of
+being primarily oral languages, as such there are various ways to spell and
+pronounce words.
+
+This website will use the Cuzco dialect, not because it is better or more "official" in any way (it is not), but rather because that is the dialect I studied.
 
 ### Remarks About Spelling
 
