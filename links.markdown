@@ -35,6 +35,8 @@ a decent amount of content).
 
 ### Quechua Videos
 
+* [Live Jaime's Learn Quechua][jamie] - Over 150 short lessons on Quechua:
+  grammar, suffixes, and vocabulary.
 * [Dina's Quechua es Nuestra Lingua][dina] - **[5-vowel][Cuzco]** - This user's
   profile has introductory videos on the alphabet, numbers, colors, and a few
   dialogues. Good quality!
@@ -88,3 +90,4 @@ a decent amount of content).
 [rimasun]: http://clacs.as.nyu.edu/object/clacs.quechua.rimasun
 [cyberqu]: http://runasimi-kuchu.com/index.html
 [apr]: http://aprendamosquechua.wordpress.com
+[jamie]: http://www.youtube.com/user/livejaime
