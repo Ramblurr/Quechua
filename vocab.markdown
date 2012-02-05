@@ -7,7 +7,9 @@ title: Quechua Language Notes
 
 | | |
 |:--|:-- |
-| [Basic Verbs][verb] | 
+| [Basic Verbs][verb] | [Animals][animal]
+| [Food][food] |
+| |
 | [Dialogues][dia] | 
 | [Example Sentences][sent] | 
 
@@ -16,3 +18,5 @@ title: Quechua Language Notes
 [dia]: dialogues.html
 [verb]: verbs.html
 [sent]: sentences.html
+[food]: food.html
+[animal]: animals.html
