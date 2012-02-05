@@ -40,3 +40,26 @@ and get more advanced.
 1: Where are you from? <br />
 2: I am from Cuzco</p>
 </div>
+
+## Others
+
+<div class="example">
+<p>
+<em>Ana:</em> Qanllachu wasipi qhipakunki <br />
+<em>Gabina:</em> Manan nuqallachu, qusaypa pananwanmi qhipakuni <br />
+<em>Ana:</em> Maypitaq qusaykiri kashan <br />
+<em>Gabina:</em> Payqa urqupin uywachakunata qhawashan <br />
+<em>Ana:</em> Qayna domingota misaman rirqankichischu <br />
+<em>Gabina:</em> Arí, wakillanmi rirqayku. Qusayqa manan rirqanchu. <br />
+<em>Ana:</em> Tardeña Gabina! risaq, paqarinkama <br />
+<em>Gabina:</em> Paqarinkamayá mamitay</p>
+
+<p>
+<em>Ana:</em> Only you are staying at the house?<br />
+<em>Gabina:</em> No, not only me, I am staying with the sister of my husband.<br />
+<em>Ana:</em> Where is your husband?<br />
+<em>Gabina:</em> He is caring for the animals in the hill<br />
+<em>Ana:</em> Did you <em>(pl)</em> go to the mass last Sunday?<br />
+<em>Gabina:</em> Yes, only some of us went. My husband did not go.<br />
+<em>Ana:</em> Afternoon Gabina! I'm going, until tomorrow.<br />
+<em>Gabina:</em> Yeah, see you tomorrow dear.</p>
