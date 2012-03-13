@@ -19,7 +19,7 @@ me an email (see very bottom).
 Contents of suffixes on this page:
 
 * [-lla](#lla) - the limitative ("only", "exclusively")
-* [-mi/n](#min) - personal knowledge evidential clitic
+* [-mi/n](#min) - personal knowledge evidential
 * [-chu](#chu) - the interrogative (question marker)
 * [-ri](#ri) -  the inchoative ("and")
 * [-pas](#pas) - the inclusive ("also", "likewise")
@@ -33,7 +33,10 @@ Contents of suffixes on this page:
 * [-kuna](#kuna) - the plural marker
 * [-q/pa](#qpa) - the genitive ("of")
 * [-wan](#wan) - instrumental, company, conjunction ("with", "and")
-* [-man](#man) - directional translocative ("to", "toward", "at")
+* [-man](#man) - directional translocative ("to", "toward", "at") (for nouns)
+* [-niq](#niq) - approximative ("near", "by", "around")
+* [-s/si](#si) - hearsay evidential ("it's said that..")
+* [-mu](#mu) - translocative (from there to here) (for verbs)
 
 <a id="lla"></a>
 ### **-LLA**: Limitative 
@@ -286,5 +289,58 @@ Appears on nouns but comes with a movement verb. Indicates the directional sense
 <em>I arrived at the village</em></p>
 </div>
 
+
+<a id="niq"></a>
+### -NIQ: Approximative (location)
+
+Indicates the place or location approximate to a point of reference. Translated
+as "around", "by", "near". It is always followed by one of the ablative suffixes: -pi, -man,
+-manta, -kama.
+
+Pronounced as "neq" (remember the *q* rule).
+
+<div class="example">
+<p>May<strong>niq</strong>pi tiyashanki? <br />
+<em>Around where do you live?</em></p>
+<p>Plaza<strong>niq</strong>pi tiyani <br />
+<em>I live by the plaza</em></p>
+<p>Mayu<strong>niq</strong>kamachu phaqwarqankichis <br />
+<em>You all ran until near the river?</em></p>
+</div>
+
+<a id="si"></a>
+### -S/SI: Reportative evidential (hearsay)
+
+Indicates that the information was reported to the speaker by another
+person(s).
+
+When the word stem ends in a vowel "*-s*" is used. When the word stem ends in
+a consonant "*-si*" is used.
+
+<div class="example">
+<p>Punomanta sipaswan<strong>si</strong> tiyan <br />
+<em>It's said he lives with a girl from Puno</em></p>
+<p>Maypi<strong>s</strong> runasimita yachachishanku<br />
+<em>Where do they say they teach Quechua?</em></p>
+</div>
+
+<a id="mu"></a>
+### -MU: Translocative (verbs only)
+
+Indicates that the action began in another place and is headed (or finished) here. Used with movement verbs except "riy" (to go).
+
+As an example for how this effects the meaning of verbs consider the following:
+
+* Apay - to take away
+* Apa<strong>mu</strong>y - to bring
+
+<div class="example">
+<p>Wasiykiman chaya<strong>mu</strong>shayku  <br />
+<em>We are arriving at your house</em></p>
+<p>Maymantan phawa<strong>mu</strong>shanki <br />
+<em>From where did you run here?</em></p>
+<p>Imapaqmi chay qurata apa<strong>mu</strong>raqnki <br />
+<em>For what did you bring those herbs?</em></p>
+</div>
 
 [stan]: http://www.stanford.edu/dept/linguistics/languages/quechua/Default.htm

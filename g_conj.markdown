@@ -10,9 +10,117 @@ verb, you've learned them for all.
 
 Conjugations list:
 
+* [Personal Pronouns](#pronouns)
 * [Person Markers (Present Tense)](#present)
 * [Present Progressive](#prog)
 * [Perfect Past](#ppast)
+* [Future](#future)
+* [Imperative](#imp)
+
+
+<a id="pronouns"></a>
+### Personal Pronouns
+
+Personal pronouns in Quechua are quite straight forward. Keep the following in mind:
+
+There are two first person plural pronouns ("we"). The first is inclusive, which is used when the speaker wishes to include the person(s) being addressed in the statement. The second is exclusive, which is used when the speaker does not wish to include the addressees.
+
+Quechua also adds the plural suffix *-kuna* to the second and third person singular pronouns to create the plural forms.
+
+The tables used below follow the same format as the verb conjugations on this
+page.
+
+<table class="conj">
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<th colspan="3">Personal Pronouns</th>
+<tr class="odd bottombordersolid">
+<td><strong>Person</strong></td>
+<td><strong>Singular</strong></td>
+<td><strong>Plural</strong></td>
+</tr>
+
+<tr class="bottombordersolid">
+<td rowspan="2" class="odd"><strong>1st Person</strong></td>
+<td rowspan="2">Nuqa</td>
+<td> Nuqayku (exclusive)</td>
+</tr>
+
+<tr class="bottombordersolid">
+<td> Nuqanchis (inclusive)</td>
+</tr>
+
+<tr class="bottombordersolid">
+<td class="odd"><strong>2nd Person</strong></td>
+<td>Qan</td>
+<td>Qankuna</td>
+</tr>
+
+<tr class="bottombordersolid">
+<td class="odd"><strong>3rd Person</strong></td>
+<td>Pay</td>
+<td>Paykuna</td>
+</tr>
+</table>
+
+Personal Pronouns with translations:
+<table class="conj">
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<tr class="odd bottombordersolid">
+<td>&nbsp;</td>
+<td><strong>English</strong></td>
+<td><strong>Quechua</strong></td>
+</tr>
+
+<tr class="bottombordersolid">
+<td rowspan="3" class="odd"><strong>Singular</strong></td>
+<td>I</td>
+<td>Nuqa</td>
+</tr>
+
+<tr class="bottombordersolid">
+<td>You</td>
+<td>Qan</td>
+</tr>
+
+
+<tr class="bottomborderthick">
+<td>He/She</td>
+<td>Pay</td>
+</tr>
+
+<tr class="bottombordersolid">
+<td rowspan="4" class="odd"><strong>Plural</strong></td>
+<td>We (inclusive)</td>
+<td>Nuqanchis</td>
+</tr>
+
+
+<tr class="bottombordersolid">
+<td>We (exclusive)</td>
+<td>Nuqayku</td>
+</tr>
+
+
+<tr class="bottombordersolid">
+<td>You (all)</td>
+<td>Qankuna</td>
+</tr>
+
+
+<tr class="bottombordersolid">
+<td>They</td>
+<td>Paykuna</td>
+</tr>
+</table>
+
+
+
 
 <a id="present"></a>
 ### Person Markers and the Present Tense
@@ -269,4 +377,190 @@ Example Sentences:
 <p>Nuqaq wasiypi, paykunaq fiestanku ka<strong>rqa</strong>n <br />
 <em>Their party was in my house.</em></p>
 </div>
+
+
+<a id="future"></a>
+### Future Tense
+
+The future tense has its own suffixes. Note that the second person singular and
+plural (Qan, Qankuna) are the same as the present, so the time must be
+determined from context.
+
+*Memorization tip*: notice the similiarity between the first person singular
+and plural (Nuqa and Nuqayku) as well as the similiarity between the third
+person singular and plural (Pay and Paykuna).
+
+<table class="conj">
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<th colspan="3">Future Tense Suffixes</th>
+<tr class="odd bottombordersolid">
+<td><strong>Person</strong></td>
+<td><strong>Singular</strong></td>
+<td><strong>Plural</strong></td>
+</tr>
+
+<tr class="bottombordersolid">
+<td rowspan="2" class="odd"><strong>1st Person</strong></td>
+<td rowspan="2">-saq</td>
+<td> -saqku (exclusive)</td>
+</tr>
+
+<tr class="bottombordersolid">
+<td> -sun / sunchis (inclusive)</td>
+</tr>
+
+<tr class="bottombordersolid">
+<td class="odd"><strong>2nd Person</strong></td>
+<td>-nki</td>
+<td>-nkichis</td>
+</tr>
+
+<tr class="bottombordersolid">
+<td class="odd"><strong>3rd Person</strong></td>
+<td>-nqa</td>
+<td>-nqaku</td>
+</tr>
+</table>
+
+Conjugated examples:
+
+<table class="conj">
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<th colspan="3">Puriy (to walk); root: puri</th>
+<tr class="odd bottombordersolid">
+<td>&nbsp;</td>
+<td><strong>English</strong></td>
+<td><strong>Quechua</strong></td>
+</tr>
+
+<tr class="bottombordersolid">
+<td rowspan="3" class="odd"><strong>Singular</strong></td>
+<td>I will walk</td>
+<td>Purisaq</td>
+</tr>
+
+<tr class="bottombordersolid">
+<td>You will walk</td>
+<td>Purinki</td>
+</tr>
+
+
+<tr class="bottomborderthick">
+<td>He/She will walk</td>
+<td>Purinqa</td>
+</tr>
+
+<tr class="bottombordersolid">
+<td rowspan="4" class="odd"><strong>Plural</strong></td>
+<td>We (inclusive) will walk</td>
+<td>Purisun / Purisunchis</td>
+</tr>
+
+
+<tr class="bottombordersolid">
+<td>We (exclusive) will walk</td>
+<td>Purisaqku</td>
+</tr>
+
+
+<tr class="bottombordersolid">
+<td>You (all) will walk</td>
+<td>Purinkichis</td>
+</tr>
+
+<tr class="bottombordersolid">
+<td>They will walk</td>
+<td>Purinqaku</td>
+</tr>
+</table>
+
+A few examples of the future tense:
+
+<div class="example">
+<p>Riqsinaku<strong>sunchis</strong> <br />
+<em>We will get to know eachother</em></p>
+<p>Maypi tupa<strong>sun</strong> <br />
+<em>Where will we meet eachother?</em> </p>
+<p>Qhatumanta mikhunata apamu<strong>saq</strong> <br />
+<em>I will bring the food from the market</em></p>
+</div>
+
+
+<a id="imp"></a>
+### Imperative
+
+Quechua has special suffixes to give orders. In addition to having the regular
+second person conjugation (Qan and Qankuna), Quechua has third person
+conjugations as well (Pay and Paykuna). These are difficult to translate into
+English, so hopefully my translations are accurate.
+
+<table class="conj">
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<th colspan="3">Imperative Mood Suffixes</th>
+<tr class="odd bottombordersolid">
+<td><strong>Person</strong></td>
+<td><strong>Singular</strong></td>
+<td><strong>Plural</strong></td>
+</tr>
+
+<tr class="bottombordersolid">
+<td class="odd"><strong>2nd Person</strong></td>
+<td>-y</td>
+<td>-ychis</td>
+</tr>
+
+<tr class="bottombordersolid">
+<td class="odd"><strong>3rd Person</strong></td>
+<td>-chun</td>
+<td>-chunku</td>
+</tr>
+</table>
+
+Conjugated examples:
+
+<table class="conj">
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<th colspan="3">Mikhuy (to eat); root: mikhu</th>
+<tr class="odd bottombordersolid">
+<td>&nbsp;</td>
+<td><strong>English</strong></td>
+<td><strong>Quechua</strong></td>
+</tr>
+
+<tr class="bottombordersolid">
+<td rowspan="2" class="odd"><strong>Singular</strong></td>
+<td> (you) eat!</td>
+<td>Mikhuy</td>
+</tr>
+
+<tr class="bottomborderthick">
+<td>Let him/her eat!</td>
+<td>Mikhuchun</td>
+</tr>
+
+<tr class="bottombordersolid">
+<td rowspan="2" class="odd"><strong>Plural</strong></td>
+<td>(you all) eat!</td>
+<td>Mikhuychis</td>
+</tr>
+
+<tr class="bottombordersolid">
+<td>Everyone eat!</td>
+<td>Mikhuchunku</td>
+</tr>
+</table>
+
+
 
