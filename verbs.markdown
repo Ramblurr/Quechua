@@ -25,7 +25,8 @@ title: Basic Verbs- Quechua Language Notes
 | kichay | to open | abrir
 | hamuy | to come | venir
 | pukllay | to play | jugar
-| qhaway | to see, to look | ver, mirar
+| qhaway | to look after, to observe, to look | mirar, observar con cuidado
+| rikuy | to see | ver
 | atiy | to be able to (can) | poder
 | tiyay | to live (at), to reside; to sit | vivir, residir; sentarse
 | kawsay | to be alive | tener vida
