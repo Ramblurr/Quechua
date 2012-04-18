@@ -16,6 +16,7 @@ Conjugations list:
 * [Perfect Past](#ppast)
 * [Future](#future)
 * [Imperative](#imp)
+* [Habitual Past](#habit)
 
 
 <a id="pronouns"></a>
@@ -562,5 +563,119 @@ Conjugated examples:
 </tr>
 </table>
 
+<a id=""></a>
+### Habitual Past
+
+The habitual past describes those daily activities that correspond to the
+speaker's past experience. It is equivalent to the English phrases "*to be used
+to*" and "*to be accustomed to*".
+
+This tense is marked with the suffix *-q* in the principal verb and is
+accompanied by the auxiliary verb *kay* conjugated in the present or past
+tense.
+
+In the third person singular and plural the auxiliary verb *kay* is omitted. In
+the third person plural the suffix *-ku* is added after the *-q*.
+
+<table class="conj">
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<th colspan="3">Habitual Past</th>
+<tr class="odd bottombordersolid">
+<td><strong>Person</strong></td>
+<td><strong>Singular</strong></td>
+<td><strong>Plural</strong></td>
+</tr>
+
+<tr class="bottombordersolid">
+<td rowspan="2" class="odd"><strong>1st Person</strong></td>
+<td rowspan="2">-q kani</td>
+<td> -q kayku (exclusive)</td>
+</tr>
+
+<tr class="bottombordersolid">
+<td> -q kanchis (inclusive)</td>
+</tr>
+
+<tr class="bottombordersolid">
+<td class="odd"><strong>2nd Person</strong></td>
+<td>-q kanki</td>
+<td>-q kankichis</td>
+</tr>
+
+<tr class="bottombordersolid">
+<td class="odd"><strong>3rd Person</strong></td>
+<td>-q</td>
+<td>-qku</td>
+</tr>
+</table>
+
+Conjugated examples:
+
+<table class="conj">
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<colgroup class="column"></colgroup>
+<th colspan="3">Phaway (to run); root: phawa</th>
+<tr class="odd bottombordersolid">
+<td>&nbsp;</td>
+<td><strong>English</strong></td>
+<td><strong>Quechua</strong></td>
+</tr>
+
+<tr class="bottombordersolid">
+<td rowspan="3" class="odd"><strong>Singular</strong></td>
+<td>I used to run</td>
+<td>Phawaq kani</td>
+</tr>
+
+<tr class="bottombordersolid">
+<td>You used to run</td>
+<td>Phawaq kanki</td>
+</tr>
+
+
+<tr class="bottomborderthick">
+<td>He/She used to run</td>
+<td>Phawaq</td>
+</tr>
+
+<tr class="bottombordersolid">
+<td rowspan="4" class="odd"><strong>Plural</strong></td>
+<td>We (inclusive) used to run</td>
+<td>Phawaq kanchis</td>
+</tr>
+
+
+<tr class="bottombordersolid">
+<td>We (exclusive) used to run</td>
+<td>Phawaq kankichis</td>
+</tr>
+
+
+<tr class="bottombordersolid">
+<td>You (all) used to run</td>
+<td>Phawaq kankichis</td>
+</tr>
+
+<tr class="bottombordersolid">
+<td>They used to run</td>
+<td>Phawaqku</td>
+</tr>
+</table>
+
+A few examples of the habitual past:
+
+<div class="example">
+<p>Unay watakunaqa aswan allintan kawasa<strong>q kanchis</strong> <br />
+<em>In previous years we used to live much better.</em>
+<p>Machulanchiskunaqa chakillapichá puri<strong>qku</strong> <br />
+<em>Our grandparents are perhaps used to walking only on foot.</em></p>
+<p>P'achaytaqa mayullapi t'aqsa<strong>q kani</strong> <br />
+<em>I am accustomed to washing my clothes in the river</em></p>
+</div>
 
 
