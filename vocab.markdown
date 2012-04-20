@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Quechua Language Notes
+title: Vocabulary - Quechua Language Notes
 ---
 
 # Quechua Vocabulary Lists
