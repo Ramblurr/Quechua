@@ -4,14 +4,29 @@
 
 <head>
 <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
-<title>Quechua Language Notes</title>
+<title>{{ page.title }}</title>
 <link type="text/css" rel="stylesheet" href="{{ site.baseurl }}/style.css" />
 <meta name="description" content="An online Quechua language learning resource" />
 <meta name="keywords" content="quechua, language learning, kichwa, peru, bolivia" />
 <meta name="copyright" content="2012 Casey Link" />
-<meta property="og:image" content="http://binaryelysium.com/images/quechua.jpg"/>
 
+{% if page.teaser-img %}
+
+<meta property="og:image" content="{{site.url}}{{ site.baseurl }}/audio/{{ page.teaser-img }}.jpg"/>
+
+<link rel="image_src" href="{{site.url}}{{ site.baseurl }}/audio/{{ page.teaser-img }}.jpg" />
+<meta property="og:description" content="{{ page.teaser }}"/>
+
+{% else %}
+<meta property="og:image" content="http://binaryelysium.com/images/quechua.jpg"/>
+<link rel='canonical' href='{{site.url}}{{site.baseurl}}{{ page.url }}' />
 <link rel="image_src" href="http://binaryelysium.com/images/quechua.jpg" />
+{% endif %}
+
+<meta property="og:title" content="{{page.title}}"/>
+<meta property="og:site_name" content="Quechua Language Notes"/>
+<meta property="og:url" content="{{site.url}}{{site.baseurl}}{{ page.url }}"/>
+<meta property="fb:admins" content="6236588"/>
 
 {{ page.head }}
 

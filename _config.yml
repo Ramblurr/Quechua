@@ -19,7 +19,7 @@ paginate: 5
 
 #base_url:  http://binaryelysium.com/quechua
 baseurl:  /quechua
-url: http://binaryelysium.com/quechua
+url: http://binaryelysium.com
 
 # extensions
 # Delimeter to be used to seperate whole post from its preview
