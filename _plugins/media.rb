@@ -23,7 +23,7 @@ module Jekyll
     end
 
     def render(context)
-        "<div class=\"block example\"><p><strong>#{@title}</strong></p><p><img src=\"/audio/stories/#{@slug}.jpg\" style=\"float: left; padding: 5px;\" /> #{@desc}</p><p><a href=\"/audio/stories/#{@slug}.html\" title=\"#{@title}\">Listen and Read</a></p></div>"
+        "<div class=\"block example\"><p><strong>#{@title}</strong></p><p><img src=\"#{@context.registers[:site].config['baseurl']}/audio/stories/#{@slug}.jpg\" style=\"float: left; padding: 5px;\" /> #{@desc}</p><p><a href=\"#{@context.registers[:site].config['baseurl']}/audio/stories/#{@slug}.html\" title=\"#{@title}\">Listen and Read</a></p></div>"
 
     end
   end
