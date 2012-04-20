@@ -2,7 +2,7 @@
 layout: index
 title: Kundur (The Condor)- Quechua Language Notes
 teaser-img: stories/kundur
-teaser: A story in Quechua about a condor and his girl.
+teaser: A story in Quechua about a condor and his girl. Listen and read!
 ---
 
 # Kundur (The Condor)
