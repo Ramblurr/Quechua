@@ -77,7 +77,7 @@ t'ika ukullapiña sapa p'unchay kaq.
 <div class="example">
 <ul>
 <li><strong>Transcribed:</strong> April 19, 2012
-<li><strong>Read By:</strong> Allain
+<li><strong>Read By:</strong> Alain
 </ul>
 </div>
 

@@ -34,7 +34,7 @@ Coming soon.
 
 A collection of various stories in Quechua. 
 
-{% story Kundur (The Condor)~kundur~A short tale about a condor and his girl. Read by Allain. April 18, 2012.%}
+{% story Kundur (The Condor)~kundur~A short tale about a condor and his girl. Read by Alain. April 18, 2012.%}
 
 [kundur]: /audio/stories/kundur.mp3
 [kundur_t]: /audio/stories/kundur.html
