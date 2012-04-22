@@ -47,6 +47,12 @@ a decent amount of content).
 * [Inka Quechua Technical][tech] - **[5-vowel]** - Quite a few videos from basic
   to intermediate topics as well as idioms. Poor production quality.
 
+### Textbooks
+* Spoken Cuzco Quechua [Vol 1][1967cusco1] [Vol 2][1967cusco2] - **[3-vowel][PDF]** - A 1967 textbook from Cornell. By Sola, Donald; et al. 
+* Spoken Ayacucho Quechua [Vol 1][1963ayacucho1] [Vol 2][1963ayacucho2] - **[3-vowel][PDF]** - A 1963 textbook from Cornell. By Sola, Donald; et al. 
+* Ecuadorian Quechua Basic Course [Vol 1][1971ecuador1] [Vol 2][1971ecuador2] - **[3-vowel][PDF]** - A 1971 textbook from BYU. By Otto, Clarence; et al 
+* Spoken Cochabamba Quechua [Vol 1][1964cocha1] [Vol 2][1964cocha2] - **[3-vowel][PDF]** - A 1964 textbook from Cornell. By Sola, Donald; et al. 
+
 ### Quechua language information
 
 * [Fun facts to know and tell about Quechua][funfacts] - interesting facts
@@ -91,3 +97,11 @@ a decent amount of content).
 [cyberqu]: http://runasimi-kuchu.com/index.html
 [apr]: http://aprendamosquechua.wordpress.com
 [jamie]: http://www.youtube.com/user/livejaime
+[1967cusco1]: http://www.eric.ed.gov/ERICWebPortal/detail?accno=ED012032
+[1967cusco2]: http://www.eric.ed.gov/ERICWebPortal/detail?accno=ED012033
+[1963ayacucho1]: http://www.eric.ed.gov/ERICWebPortal/detail?accno=ED012040
+[1963ayacucho2]: http://www.eric.ed.gov/ERICWebPortal/detail?accno=ED012041
+[1971ecuador1]: http://www.eric.ed.gov/ERICWebPortal/detail?accno=ED058782
+[1971ecuador2]: http://www.eric.ed.gov/ERICWebPortal/detail?accno=ED058783
+[1964cocha1]: http://www.eric.ed.gov/ERICWebPortal/detail?accno=ED012036
+[1964cocha2]: http://www.eric.ed.gov/ERICWebPortal/detail?accno=ED012037
