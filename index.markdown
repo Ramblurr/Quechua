@@ -34,13 +34,14 @@ Looking for something in particular?  Use the Google search box to search this w
 
 Latest updates:
 
+* *2012/04/21* - Add links to PDF textbooks and new food vocabulary
 * *2012/04/19* - New recordings section, added first story (Kundur)
 * *2012/04/18* - Add habitual past tense
 * *2012/03/12* - Add future, imperative and more suffixes.
-* *2012/01/29* - Add some basic verbs, dialogues, and example sentences
 <!---
 Old updates:
 
+* *2012/01/29* - Add some basic verbs, dialogues, and example sentences
 * *2012/01/28* - Add conjugations and suffixes pages
 * *2012/01/27* - Site goes live
 --->
