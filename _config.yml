@@ -17,8 +17,7 @@ permalink:   date
 pagination: true
 paginate: 5
 
-#base_url:  http://binaryelysium.com/quechua
-baseurl:  /quechua
+base_url:  http://quechua.binaryelysium.com
 url: http://binaryelysium.com
 
 # extensions
